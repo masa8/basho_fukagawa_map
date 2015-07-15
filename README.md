@@ -1,4 +1,4 @@
 ##Basho Fukagawa map
 
-<img src="basho_fukagawa_map_screenshot.jpg width="200px" />
+<img src="basho_fukagawa_map_screenshot.jpg" style="width: 200px;" />
 
